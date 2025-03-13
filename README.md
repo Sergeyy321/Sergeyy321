@@ -8,7 +8,7 @@ I'm a web enthusiast who loves turning ideas into interactive, user-friendly dig
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [sergemiutsa23451@gmail.com](mailto:sergemiutsa23451@gmail.com)
-* 🧠  I'm learning TypeScript
+* 🧠  Now I'm learning TypeScript
 
 ### Skills
 
